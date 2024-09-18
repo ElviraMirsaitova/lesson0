@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Страница — 1" id="ytHI7eDZxkR5xtizNIfr">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9djh7Bq-X6_z9qbAcK5B-2" value="Правительство(Минтранс)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="580" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9djh7Bq-X6_z9qbAcK5B-5" value="Транспортный инженер-госслужащий" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="190" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9djh7Bq-X6_z9qbAcK5B-6" value="Инвестор(ТК)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="190" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9djh7Bq-X6_z9qbAcK5B-9" value="Бизнес(разработка)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="390" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9djh7Bq-X6_z9qbAcK5B-10" value="Житель города" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="580" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
