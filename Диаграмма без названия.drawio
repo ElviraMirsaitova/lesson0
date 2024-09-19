@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9djh7Bq-X6_z9qbAcK5B-2" value="Правительство РФ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="9djh7Bq-X6_z9qbAcK5B-2" value="Правительство" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="70" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9djh7Bq-X6_z9qbAcK5B-5" value="Транспортный инженер-госслужащий (МО/МР)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="9djh7Bq-X6_z9qbAcK5B-14" value="Метод" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="270" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9djh7Bq-X6_z9qbAcK5B-15" value="220-ФЗ &quot;Об организации&amp;nbsp; регулярных пассажирских перевозок...&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9djh7Bq-X6_z9qbAcK5B-15" value="220-ФЗ &quot;Об организации&amp;nbsp; регулярных пассажирских перевозок...&quot; от 13.07.2015" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="50" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9djh7Bq-X6_z9qbAcK5B-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9djh7Bq-X6_z9qbAcK5B-14" target="9djh7Bq-X6_z9qbAcK5B-9">
@@ -121,19 +121,16 @@
             <mxPoint x="540" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9djh7Bq-X6_z9qbAcK5B-74" value="Правительство(Минтранс)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="220" width="50" height="100" as="geometry" />
+        <mxCell id="9djh7Bq-X6_z9qbAcK5B-75" value="Приказ Минтранса&amp;nbsp; №27 &quot;Об установлении значенйи минимальной разницы в расписаниях...&quot; от 24.01.2018" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="210" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="9djh7Bq-X6_z9qbAcK5B-75" value="Приказ Минтранса №27 &quot;Об установлении значенйи минимальной разницы в расписаниях...&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="200" width="210" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="9djh7Bq-X6_z9qbAcK5B-76" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9djh7Bq-X6_z9qbAcK5B-74" target="9djh7Bq-X6_z9qbAcK5B-75">
+        <mxCell id="9djh7Bq-X6_z9qbAcK5B-76" value="" style="endArrow=none;html=1;rounded=0;entryX=0.248;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9djh7Bq-X6_z9qbAcK5B-2" target="9djh7Bq-X6_z9qbAcK5B-75">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="290" as="sourcePoint" />
             <mxPoint x="690" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9djh7Bq-X6_z9qbAcK5B-77" value="Generalization" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.41;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="9djh7Bq-X6_z9qbAcK5B-64">
+        <mxCell id="9djh7Bq-X6_z9qbAcK5B-77" value="Generalization" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.71;exitY=0.955;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9djh7Bq-X6_z9qbAcK5B-75" target="9djh7Bq-X6_z9qbAcK5B-64">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="309" y="310" as="sourcePoint" />
             <mxPoint x="260" y="600" as="targetPoint" />
