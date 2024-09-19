@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9djh7Bq-X6_z9qbAcK5B-2" value="Правительство(Минтранс)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="9djh7Bq-X6_z9qbAcK5B-2" value="Правительство РФ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="70" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9djh7Bq-X6_z9qbAcK5B-5" value="Транспортный инженер-госслужащий (МО/МР)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -46,10 +46,10 @@
             <mxPoint x="600" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9djh7Bq-X6_z9qbAcK5B-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9djh7Bq-X6_z9qbAcK5B-2" target="9djh7Bq-X6_z9qbAcK5B-15">
+        <mxCell id="9djh7Bq-X6_z9qbAcK5B-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.025;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9djh7Bq-X6_z9qbAcK5B-2" target="9djh7Bq-X6_z9qbAcK5B-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="180" as="sourcePoint" />
-            <mxPoint x="600" y="540" as="targetPoint" />
+            <mxPoint x="200" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9djh7Bq-X6_z9qbAcK5B-33" value="Нормы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
